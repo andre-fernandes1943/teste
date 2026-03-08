@@ -50,3 +50,4 @@ identificando formatação de comando!
 
 não sei muito bem o que significa `document.getElementById()` da linguagem  JavaScript.
 ***
+emoji
