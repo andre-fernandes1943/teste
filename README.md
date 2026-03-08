@@ -61,3 +61,6 @@ emojis
 | (#smileys--emotion) | :slightly_smiling_face: | `:slightly_smiling_face:` | :upside_down_face: | `:upside_down_face:` | (#table-of-contents) |
 | (#smileys--emotion) | :wink: | `:wink:` | :blush: | `:blush:` | (#table-of-contents) |
 | (#smileys--emotion) | :innocent: | `:innocent:` | | | (#table-of-contents) |
+
+***
+[top]
